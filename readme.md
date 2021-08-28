@@ -12,3 +12,6 @@
 - https://youtu.be/voAyroDb6xk
 - https://youtu.be/16fgzklcF7Y
 
+## Hands-on practise
+- https://www.katacoda.com/learn
+
